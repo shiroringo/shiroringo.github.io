@@ -1,4 +1,4 @@
-import{e as r,i as o,u as t,r as s,o as c}from"./index-6c450c2f.js";const a=`### 如何使用\r
+import{e as r,i as o,u as t,r as s,o as c}from"./index-2982d858.js";const a=`### 如何使用\r
 \r
 #### 基础功能（不绑ck）\r
 面板功能，戳一戳功能\r
